@@ -132,6 +132,10 @@ Tools
 - [OpsGenie](https://www.atlassian.com/software/opsgenie)
 - [PagerDuty](https://www.pagerduty.com/)
 
+### DevOps as a Service 
+
+- [Cloud 66](https://www.cloud66.com/) - DevOps as a service that helps to build, deploy and manage any application on any cloud or server
+
 Misc
 ----
 
